@@ -1,0 +1,17 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local test / temp outputs
+*.png
+*.log
+
+# Keep source, fonts, docs, icon and build.ps1
